@@ -88,13 +88,6 @@
 
 ---
 
-### ✨ Little Sparkle Animation  
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/J93sVmfYBtsRi/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="100"/>
-</p>
 
 ---
 
