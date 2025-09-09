@@ -7,11 +7,6 @@
 <h1 align="center"> 🌸 Hi, I'm <b>Queena Sava</b> 🌸 </h1>
 <h3 align="center"> 💖 pastel soul · creative dreamer · K-Drama lover 💖 </h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/J93sVmfYBtsRi/giphy.gif" width="80"/>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"/>
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="80"/>
-</p>
 
 <p align="center">
   ✦･ﾟ: *✧･ﾟ:*  Welcome to my pastel world  *:･ﾟ✧*:･ﾟ✦
