@@ -1,7 +1,23 @@
 <!-- Profile README for GitHub -->
 
-<h1 align="center">🌸 Hiii, I'm <span style="color:#ff69b4;">Queena Sava</span> 🌸</h1>
-<h3 align="center">✨ A pastel soul who loves design, K-drama & music ✨</h3>
+<p align="center">
+  <img src="https://i.ibb.co/YbWpzt7/pastel-banner.gif" width="600"/>
+</p>
+
+<h1 align="center"> 🌸 Hi, I'm <b>Queena Sava</b> 🌸 </h1>
+<h3 align="center"> 💖 pastel soul · creative dreamer · K-Drama lover 💖 </h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/J93sVmfYBtsRi/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="80"/>
+</p>
+
+<p align="center">
+  ✦･ﾟ: *✧･ﾟ:*  Welcome to my pastel world  *:･ﾟ✧*:･ﾟ✦
+</p>
+
+---
 
 <p align="center">
   <img src="queena.jpg" alt="queena sava" width="220" style="border-radius:50%; box-shadow: 0 0 15px #ffb6c1;"/>
