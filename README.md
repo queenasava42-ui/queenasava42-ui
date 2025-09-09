@@ -79,18 +79,8 @@
 
 ---
 
-### 🎶 Current Mood Playlist 💕  
-<p align="center">  
-  <a href="https://open.spotify.com/user/31btadwimubilldgzb5yiqllpb44" target="_blank">  
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31m3e3fbd2y6p45kxsgp3j5y73ki&cover_image=true&theme=novatorem&show_offline=false&background_color=fff0f5&interchange=true&bar_color=ff69b4&bar_color_cover=true" alt="Spotify Now Playing"/>  
-  </a>  
-</p>  
 
----
-
-
----
 
 💌 *“Spreading kindness in pastel colors, one design at a time.”*  
-🌸 *Always creating, always dreaming — that’s Queena* 🌸  
+🌸 *Always creating, always dreaming — that’s mee !* 🌸  
 
