@@ -1,8 +1,9 @@
 <!-- Profile README for GitHub -->
 
 <p align="center">
-  <img src="https://i.ibb.co/YbWpzt7/pastel-banner.gif" width="600"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=header&text=Queena%20Sava%20🌸&fontSize=60&fontColor=ffffff&animation=twinkling"/>
 </p>
+
 
 <h1 align="center"> 🌸 Hi, I'm <b>Queena Sava</b> 🌸 </h1>
 <h3 align="center"> 💖 pastel soul · creative dreamer · K-Drama lover 💖 </h3>
