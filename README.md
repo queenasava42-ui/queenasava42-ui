@@ -4,7 +4,7 @@
 <h3 align="center">✨ A pastel soul who loves design, K-drama & music ✨</h3>
 
 <p align="center">
-  <img src="queenaa 1.jpg" alt="queena sava" width="220" style="border-radius:50%; box-shadow: 0 0 15px #ffb6c1;"/>
+  <img src="queena.jpg" alt="queena sava" width="220" style="border-radius:50%; box-shadow: 0 0 15px #ffb6c1;"/>
 </p>
 
 ---
@@ -88,14 +88,18 @@
 
 ---
 
+---
+
 ### ✨ Little Sparkle Animation  
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/J93sVmfYBtsRi/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="100"/>
 </p>
 
 ---
+
 
 💌 *“Spreading kindness in pastel colors, one design at a time.”*  
 🌸 *Always creating, always dreaming — that’s Queena* 🌸  
