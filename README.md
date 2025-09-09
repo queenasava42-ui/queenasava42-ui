@@ -1,11 +1,10 @@
-
 <!-- Profile README for GitHub -->
 
-<h1 align="center">🌸 Hiii, I'm <span style="color:#ffb6c1;">Queena Sava</span> 🌸</h1>
+<h1 align="center">🌸 Hiii, I'm <span style="color:#ff69b4;">Queena Sava</span> 🌸</h1>
 <h3 align="center">✨ A pastel soul who loves design, K-drama & music ✨</h3>
 
 <p align="center">
-  <img src="queena.jpg" alt="queena sava" width="220" style="border-radius:50%; box-shadow: 0 0 15px #ffb6c1;"/>
+  <img src="queenaa 1.jpg" alt="queena sava" width="220" style="border-radius:50%; box-shadow: 0 0 15px #ffb6c1;"/>
 </p>
 
 ---
@@ -49,4 +48,54 @@
 ### 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=queenasava42-ui&label=🌸%20Visitors&color=ffb6c1&styl
+  <img src="https://komarev.com/ghpvc/?username=queenasava42-ui&label=🌸%20Visitors&color=ffb6c1&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=queenasava42-ui&show_icons=true&theme=rose_pine&title_color=ff69b4&icon_color=ffb6c1&bg_color=fff0f5&text_color=4b4b4b" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=queenasava42-ui&theme=rose_pine&ring=ff69b4&currStreakLabel=ff69b4&sideNums=ff69b4&sideLabels=ffb6c1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=queenasava42-ui&layout=compact&bg_color=fff0f5&title_color=ff69b4&text_color=4b4b4b" />
+</p>
+
+---
+
+### 🌸 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=queenasava42-ui&bg_color=fff0f5&color=ff69b4&line=ffb6c1&point=ff69b4&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Cute Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=queenasava42-ui&theme=juicyfresh&row=1&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+### 🎶 Current Mood Playlist 💕  
+<p align="center">  
+  <a href="https://open.spotify.com/" target="_blank">  
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31btadwimubilldgzb5yiqllpb44?si=e2bbd90402c84472&cover_image=true&theme=novatorem&show_offline=false&background_color=fff0f5&interchange=true&bar_color=ff69b4&bar_color_cover=true" alt="Spotify Now Playing"/>  
+  </a>  
+</p>  
+
+---
+
+### ✨ Little Sparkle Animation  
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" width="120"/>
+</p>
+
+---
+
+💌 *“Spreading kindness in pastel colors, one design at a time.”*  
+🌸 *Always creating, always dreaming — that’s Queena* 🌸  
