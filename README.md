@@ -4,7 +4,7 @@
 <h3 align="center">🌸 A Creative Soul who loves design, music & connections 🌸</h3>
 
 <p align="center">
-  <img src="queenaa 1.jpg" alt="queena sava" width="200" style="border-radius:50%;"/>
+  <img src="queena.jpg" alt="queena sava" width="200" style="border-radius:50%;"/>
 </p>
 
 ---
