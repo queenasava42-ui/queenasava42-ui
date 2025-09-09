@@ -81,16 +81,23 @@
 
 ### 🎶 Current Mood Playlist 💕  
 <p align="center">  
-  <a href="https://open.spotify.com/" target="_blank">  
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31btadwimubilldgzb5yiqllpb44?si=e2bbd90402c84472&cover_image=true&theme=novatorem&show_offline=false&background_color=fff0f5&interchange=true&bar_color=ff69b4&bar_color_cover=true" alt="Spotify Now Playing"/>  
+  <a href="https://open.spotify.com/user/31btadwimubilldgzb5yiqllpb44" target="_blank">  
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31m3e3fbd2y6p45kxsgp3j5y73ki&cover_image=true&theme=novatorem&show_offline=false&background_color=fff0f5&interchange=true&bar_color=ff69b4&bar_color_cover=true" alt="Spotify Now Playing"/>  
   </a>  
 </p>  
 
 ---
 
+### ✨ Little Sparkle Animation  
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/J93sVmfYBtsRi/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="100"/>
+</p>
+
 ---
-
-
 
 💌 *“Spreading kindness in pastel colors, one design at a time.”*  
 🌸 *Always creating, always dreaming — that’s Queena* 🌸  
+
